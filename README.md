@@ -1,16 +1,16 @@
-## Hi there 👋
+# mrtandmilo
 
-<!--
-**mrtandmilo/mrtandmilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in software that solves practical engineering problems and makes repetitive work easier.
 
-Here are some ideas to get you started:
+## Focus areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Practical automation and C# tooling
+- Engineering software and data workflows
+- Measurement, metrology, and clear presentation of results
+- AI-assisted development, with attention to code review and validation
+
+## Contribution approach
+
+I aim to make focused, understandable changes: clarify the problem, follow the project's conventions, validate the result, and document relevant limitations.
+
+I'm interested in contributing to well-scoped bug fixes, automation tasks, and documentation improvements. Technical discussion is welcome through the relevant GitHub issue or pull request.
